@@ -1,0 +1,17 @@
+[Pictures]
+jpg, jpeg, gif, bmp, tga, png, psd, tif, tiff, pcd, rle, pic, pcx, art, xbm, cdr, cmx, cpt, dwg, wmf, emf, psp, svg, svgz, psd, dwg, dwf, dib
+
+[Music and other audio]
+wma, wav, mp3, ogg, acm, au, aif, aiff, mid, midi, rmi, m3u, snd, cda, aifc, aac, m4a, m4b
+
+[Video and movies]
+avi, mpg, mpeg, rv9, asf, vfw, wmv, mov, swf, asx, wax, wm, wmd, wmp, wmx, wpl, wvx, m1v, mp2, mpa, mpe, mp2v, mpv2, vob, divx
+
+[Recorded TV shows]
+dvr-ms
+
+[Documents, spreadsheets and presentations]
+doc, xls, ppt, mdb, pub, acl, ade, adn, adp, ag4, ans, txt, rtf, oft, dic, csv, mdi, wbd, wdb, wks, wps, mht, xml, dot, xl*, xlb, xlc, xlr, mny, vs*, wmz, kar, cdg, pot, pps, htm, html, vsd, vss, vst, vdx, vsx, vtx, zip, rar, ace, pdf, docx, docm, dotx, dotm, xlsx, xlsm, xltx, xltm, xlsb, xlam, pptx, pptm, potx, potm, ppam, ppsx, ppsm, ACCDB, ACCDE, ACCDT, ACCDR
+
+[E-mails, Internet favorites and settings]
+eml, pst, dbx, wab, nab, ldif, rwz, mbx, url
